@@ -1,1 +1,1 @@
-# My-AR-VR
+# PRO-C187-Student-Boilerplate
